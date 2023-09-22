@@ -1,0 +1,32 @@
+p{
+font-family: "Courier Prime", serif;
+}
+
+h1{
+	font-family: "Courier Prime", serif;
+}
+
+@font-face {
+    font-family: "Courier Prime";
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/fungustober/discourierprime/fonts/CourierPrime-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Courier Prime";
+    font-style: italic;
+    src: url("https://cdn.jsdelivr.net/gh/fungustober/discourierprime/fonts/CourierPrime-Italic.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: "Courier Prime";
+	font-weight: bold;
+    src: url("https://cdn.jsdelivr.net/gh/fungustober/discourierprime/fonts/CourierPrime-Bold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Courier Prime";
+    font-style: italic;
+	font-weight: bold;
+    src: url("https://cdn.jsdelivr.net/gh/fungustober/discourierprime/fonts/CourierPrime-BoldItalic.woff2") format("woff2");
+}
